@@ -1,0 +1,32 @@
+Your First GitHub Pull Request (in 10 Mins)
+https://www.youtube.com/watch?v=dSl_qnWO104
+
+https://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+
+https://learn.co/shares/github-pull-request-basics
+
+https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/creating-a-pull-request/
+https://help.github.com/articles/about-forks/
+
+
+https://www.udemy.com/github-tutorial-deutsch/
+
+https://www.youtube.com/watch?v=xyTS2yyOWnA
+https://www.youtube.com/watch?v=Nkz7TnhFvWU
+
+
+
+
+A privacy reminder from YouTube, a Google company
+DE
+0:12 / 12:44
+GitHub Workflow Tutorial [Deutsch] Von Issue bis Pull Request
+https://www.youtube.com/watch?v=hSbJaIdqwKg
+
+
+Versionskontrolle mit Git (Teil 2/2), Praxis-Tutorial
+https://www.youtube.com/watch?v=1BHFCk2aZKo
